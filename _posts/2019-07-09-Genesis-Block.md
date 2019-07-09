@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Document - Genesis Block @ Hyperledger Fabric
+title: Genesis Block @ Hyperledger Fabric
 mathjax: true
 ---
 
