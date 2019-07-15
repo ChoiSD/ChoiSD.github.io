@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Genesis Block @ Hyperledger Fabric
-mathjax: true
+lang: ko
 ---
 
 # Internal of Genesis Block
